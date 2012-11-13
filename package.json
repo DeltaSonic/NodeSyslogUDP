@@ -1,5 +1,5 @@
 {
-  "name"          : "syslogUDP",
+  "name"          : "syslogudp",
   "description"   : "Syslog UDP client.",
   "url"           : "http://github.com/cboebel/NodeSyslogUDP",
   "keywords"      : ["syslog", "logger", "udp"],
