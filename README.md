@@ -44,3 +44,8 @@ You may also call the `log` method, and pass the level as the 2nd argument:
 
 The default level is `info`.
 
+references
+----------
+
+Aside from the repo noted above, [this node documentation](http://nodejs.org/api/dgram.html) was very helpful in getting this up and running.
+
