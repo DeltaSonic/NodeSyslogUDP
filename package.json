@@ -1,0 +1,12 @@
+{
+  "name"          : "syslogUDP",
+  "description"   : "Syslog UDP client.",
+  "url"           : "http://github.com/cboebel/NodeSyslogUDP",
+  "keywords"      : ["syslog", "logger", "udp"],
+  "author"        : "Chris Boebel <cboebel@gmail.com>",
+  "contributors"  : [],
+  "version"       : "0.0.1",
+  "main"          : "./lib/NodeSyslogUDP",
+  "directories"   : { "lib": "./lib" },
+  "engines"       : { "node": ">=0.4.2" }
+}
