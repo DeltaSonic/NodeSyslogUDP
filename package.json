@@ -5,7 +5,7 @@
   "keywords"      : ["syslog", "logger", "udp"],
   "author"        : "Chris Boebel <cboebel@gmail.com>",
   "contributors"  : [],
-  "version"       : "0.0.1",
+  "version"       : "0.0.3",
   "main"          : "./lib/NodeSyslogUDP",
   "directories"   : { "lib": "./lib" },
   "engines"       : { "node": ">=0.4.2" }
