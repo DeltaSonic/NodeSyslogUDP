@@ -8,11 +8,9 @@
   "version"       : "0.0.6",
   "main"          : "./lib/NodeSyslogUDP",
   "directories"   : { "lib": "./lib" },
-<<<<<<< HEAD
   "engines"       : { "node": ">=0.4.2" },
   "publishConfig" : { "registry": "http://172.30.200.4:5984"},
-  "dependencies"  : { "restify": "*"}
-=======
+  "dependencies"  : { "git+ssh://git@github.com/DeltaSonic/NodeSyslogUDP.git": "*"},
   "engines"       : { "node": ">=0.4.2" }
->>>>>>> 8e52751a05298c8885d80a1809ee28a4b8734c9f
+
 }
