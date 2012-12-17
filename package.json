@@ -10,7 +10,5 @@
   "directories"   : { "lib": "./lib" },
   "engines"       : { "node": ">=0.4.2" },
   "publishConfig" : { "registry": "http://172.30.200.4:5984"},
-  "dependencies"  : { "git+ssh://git@github.com/DeltaSonic/NodeSyslogUDP.git": "*"},
   "engines"       : { "node": ">=0.4.2" }
-
 }
