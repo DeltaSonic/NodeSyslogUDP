@@ -1,7 +1,7 @@
 {
   "name"          : "syslogudp",
   "description"   : "Syslog UDP client.",
-  "url"           : "http://github.com/cboebel/NodeSyslogUDP",
+  "url"           : "http://github.com/DeltaSonic/NodeSyslogUDP",
   "keywords"      : ["syslog", "logger", "udp"],
   "author"        : "Chris Boebel <cboebel@gmail.com>",
   "contributors"  : [],
