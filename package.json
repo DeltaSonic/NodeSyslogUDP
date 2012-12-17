@@ -1,12 +1,14 @@
 {
   "name"          : "syslogudp",
   "description"   : "Syslog UDP client.",
-  "url"           : "http://github.com/DeltaSonic/NodeSyslogUDP",
+  "url"           : "http://github.com/cboebel/NodeSyslogUDP",
   "keywords"      : ["syslog", "logger", "udp"],
   "author"        : "Chris Boebel <cboebel@gmail.com>",
   "contributors"  : [],
-  "version"       : "0.0.4",
+  "version"       : "0.0.6",
   "main"          : "./lib/NodeSyslogUDP",
   "directories"   : { "lib": "./lib" },
-  "engines"       : { "node": ">=0.4.2" }
+  "engines"       : { "node": ">=0.4.2" },
+  "publishConfig" : { "registry": "http://172.30.200.4:5984"},
+  "dependencies"  : {"restify": "*"}
 }
