@@ -12,7 +12,7 @@ installation
 synopsis
 --------
     
-    var syslog = require('syslog');
+    var syslog = require('syslogudp');
     var logger = syslog.createClient(514, 'localhost');
 
     logger.info("ping!");
